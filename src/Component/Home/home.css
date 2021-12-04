@@ -1,0 +1,8 @@
+.slide-container{
+  width:100vw;
+ overflow-x:scroll;
+ padding:1rem 0;
+}
+.tab-container{
+  display:inline-flex;
+}

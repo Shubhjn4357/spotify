@@ -1,0 +1,14 @@
+.slideFrame{
+  text-decoration:none;
+  width:9rem;
+  transition:transform 0.3s ease-in-out;
+  &:active{
+    transform:scale(0.9);
+  }
+  & .slideImage{
+  width:9rem;
+  height:9rem;
+  border-radius: 1rem;
+  border:1px ridge rgb(255,255,255);
+  }
+}

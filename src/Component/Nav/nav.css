@@ -1,0 +1,90 @@
+
+.p-dialog{
+ 
+  border-radius:0 0 1rem 1rem;
+}
+.p-dialog .p-dialog-titlebar,
+.p-dialog .p-dialog-header,
+.p-dialog .p-dialog-content,
+.p-dialog .p-dialog-footer{
+  background: #000000;
+}
+.p-tabview .p-tabview-panels{
+  margin:0;
+  padding:0;
+  width:100%;
+}
+ .field{
+  text-align: center;
+  position:relative;
+  
+ }
+ .field .Entry{
+  height:auto;
+  padding:1rem;
+  outline:none;
+  background:transparent;
+  box-shadow: inset 2px 2px 10px #6E6F7A,
+              inset -2px -2px 10px #77787F;
+  border:none;
+  color:#ffffff;
+  border-radius:0.5rem;
+  font-size: 1rem;
+  
+ }
+ .field .Entry.invalid{
+  border:1px solid #FF0000;
+ }
+  .field .Entry.valid{
+  border:1px solid #16FF00;
+  }
+ .field .Entry::placeholder{
+  color:transparent;
+ }
+ .Entry:focus{
+  box-shadow:2px 2px 10px #6E6F7A,
+            -2px -2px 10px #77787F;
+            
+ }
+ .field .Entry:focus::placeholder{
+  color:#676C67;
+ }
+ .field.icon-right > i{
+  position:absolute;
+  padding:inherit;
+  right:10%;
+  top:35%;
+  color:#ffffff;
+ }
+ .entry-label{
+  font-size:1rem;
+  color:#ffffff;
+  position:absolute;
+  top:35%;
+  left:5%;
+  transition:all 0.3s ease;
+ }
+  .Entry:focus~.entry-label,
+  .Entry.valid~.entry-label{
+   transform:translateY(-200%);
+   color:#04ff00;
+  }
+.p-dock{
+  background:transparent;
+  position:fixed;
+  bottom:0;
+  
+}
+.p-dock .p-dock-list{
+  padding:0;
+  width:100%;
+  justify-content:space-around;
+}
+
+.p-dock .p-dock-list .p-dock-item .p-dock-action{
+  text-decoration:none;
+  color:#dedede;
+}
+.p-tabmenu-nav{
+  justify-content:space-between;
+}
