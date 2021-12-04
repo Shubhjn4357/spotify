@@ -56,6 +56,7 @@ PrimeReact.appendTo = 'self'; // Default value is null(document.body
 <>
 
   <Context.Provider value={{response,loading,error,State,Dispatch,Play,setPlay}}>
+
     <div className="App" style={{backgroundImage:`url(${wave})`,height:window.screen.height}}>
       {loading?<Loader height={window.screen.height} width={window.screen.width}  size="100" color="#00ff2f"/>:
       <>
@@ -67,8 +68,9 @@ PrimeReact.appendTo = 'self'; // Default value is null(document.body
       </>
       }
     </div>
+
  </Context.Provider>
-   
+
     
 
   </>
