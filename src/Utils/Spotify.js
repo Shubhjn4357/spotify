@@ -1,7 +1,7 @@
 
 const authEndpoint = process.env.REACT_APP_SPOTIFY_AUTH; //"https://accounts.spotify.com/authorize";
 const getUrl=window.location.href.split('login');
-const redirectUri =getUrl[0];
+//const redirectUri =encodeURIComponent(getUrl[0]);
 const clientId = process.env.REACT_APP_CLIENT_ID ;//"********************";
 const scopes = [
   "streaming",
@@ -23,4 +23,4 @@ const scopes = [
   "user-follow-read",
   "user-follow-modify"
 ];
-export const loginUrl = `${authEndpoint}?response_type=token&client_id=${clientId}&redirect_uri=${redirectUri}&scope=${scopes.join("%20")}&show_dialog=true&state=1234`;
+export const loginUrl = `${authEndpoint}?response_type=token&client_id=${clientId}&redirect_uri=${window.location.href}&scope=${scopes.join("%20")}&show_dialog=true&state=1234`;
