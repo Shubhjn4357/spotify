@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Shubhjn4357/spotify.git/static/css/main.0fde7b67.chunk.css",
-    "main.js": "/Shubhjn4357/spotify.git/static/js/main.a5333c51.chunk.js",
-    "main.js.map": "/Shubhjn4357/spotify.git/static/js/main.a5333c51.chunk.js.map",
-    "runtime-main.js": "/Shubhjn4357/spotify.git/static/js/runtime-main.7530c39d.js",
-    "runtime-main.js.map": "/Shubhjn4357/spotify.git/static/js/runtime-main.7530c39d.js.map",
-    "static/css/2.a1387d45.chunk.css": "/Shubhjn4357/spotify.git/static/css/2.a1387d45.chunk.css",
-    "static/js/2.7b74b743.chunk.js": "/Shubhjn4357/spotify.git/static/js/2.7b74b743.chunk.js",
-    "static/js/2.7b74b743.chunk.js.map": "/Shubhjn4357/spotify.git/static/js/2.7b74b743.chunk.js.map",
-    "index.html": "/Shubhjn4357/spotify.git/index.html",
-    "static/css/2.a1387d45.chunk.css.map": "/Shubhjn4357/spotify.git/static/css/2.a1387d45.chunk.css.map",
-    "static/css/main.0fde7b67.chunk.css.map": "/Shubhjn4357/spotify.git/static/css/main.0fde7b67.chunk.css.map",
-    "static/js/2.7b74b743.chunk.js.LICENSE.txt": "/Shubhjn4357/spotify.git/static/js/2.7b74b743.chunk.js.LICENSE.txt",
-    "static/media/Wavenew.a602bbbd.svg": "/Shubhjn4357/spotify.git/static/media/Wavenew.a602bbbd.svg",
-    "static/media/primeicons.css": "/Shubhjn4357/spotify.git/static/media/primeicons.e61f3495.woff",
-    "static/media/theme.css": "/Shubhjn4357/spotify.git/static/media/roboto-v20-latin-ext_latin-regular.ae804dc0.woff"
+    "main.css": "./static/css/main.0fde7b67.chunk.css",
+    "main.js": "./static/js/main.3764d59e.chunk.js",
+    "main.js.map": "./static/js/main.3764d59e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.1e31a6de.js",
+    "runtime-main.js.map": "./static/js/runtime-main.1e31a6de.js.map",
+    "static/css/2.6b32ab70.chunk.css": "./static/css/2.6b32ab70.chunk.css",
+    "static/js/2.7b74b743.chunk.js": "./static/js/2.7b74b743.chunk.js",
+    "static/js/2.7b74b743.chunk.js.map": "./static/js/2.7b74b743.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.6b32ab70.chunk.css.map": "./static/css/2.6b32ab70.chunk.css.map",
+    "static/css/main.0fde7b67.chunk.css.map": "./static/css/main.0fde7b67.chunk.css.map",
+    "static/js/2.7b74b743.chunk.js.LICENSE.txt": "./static/js/2.7b74b743.chunk.js.LICENSE.txt",
+    "static/media/Wavenew.a602bbbd.svg": "./static/media/Wavenew.a602bbbd.svg",
+    "static/media/primeicons.css": "./static/media/primeicons.e61f3495.woff",
+    "static/media/theme.css": "./static/media/roboto-v20-latin-ext_latin-regular.ae804dc0.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.7530c39d.js",
-    "static/css/2.a1387d45.chunk.css",
+    "static/js/runtime-main.1e31a6de.js",
+    "static/css/2.6b32ab70.chunk.css",
     "static/js/2.7b74b743.chunk.js",
     "static/css/main.0fde7b67.chunk.css",
-    "static/js/main.a5333c51.chunk.js"
+    "static/js/main.3764d59e.chunk.js"
   ]
 }
