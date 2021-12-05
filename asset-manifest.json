@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "./spotify/static/css/main.0fde7b67.chunk.css",
-    "main.js": "./spotify/static/js/main.95ffb149.chunk.js",
-    "main.js.map": "./spotify/static/js/main.95ffb149.chunk.js.map",
-    "runtime-main.js": "./spotify/static/js/runtime-main.dbf7e5ce.js",
-    "runtime-main.js.map": "./spotify/static/js/runtime-main.dbf7e5ce.js.map",
-    "static/css/2.6b32ab70.chunk.css": "./spotify/static/css/2.6b32ab70.chunk.css",
-    "static/js/2.7b74b743.chunk.js": "./spotify/static/js/2.7b74b743.chunk.js",
-    "static/js/2.7b74b743.chunk.js.map": "./spotify/static/js/2.7b74b743.chunk.js.map",
-    "index.html": "./spotify/index.html",
-    "static/css/2.6b32ab70.chunk.css.map": "./spotify/static/css/2.6b32ab70.chunk.css.map",
-    "static/css/main.0fde7b67.chunk.css.map": "./spotify/static/css/main.0fde7b67.chunk.css.map",
-    "static/js/2.7b74b743.chunk.js.LICENSE.txt": "./spotify/static/js/2.7b74b743.chunk.js.LICENSE.txt",
-    "static/media/Wavenew.a602bbbd.svg": "./spotify/static/media/Wavenew.a602bbbd.svg",
-    "static/media/primeicons.css": "./spotify/static/media/primeicons.e61f3495.woff",
-    "static/media/theme.css": "./spotify/static/media/roboto-v20-latin-ext_latin-regular.ae804dc0.woff"
+    "main.css": "/spotify/static/css/main.0fde7b67.chunk.css",
+    "main.js": "/spotify/static/js/main.5f76d12d.chunk.js",
+    "main.js.map": "/spotify/static/js/main.5f76d12d.chunk.js.map",
+    "runtime-main.js": "/spotify/static/js/runtime-main.0e16c741.js",
+    "runtime-main.js.map": "/spotify/static/js/runtime-main.0e16c741.js.map",
+    "static/css/2.a126e3d4.chunk.css": "/spotify/static/css/2.a126e3d4.chunk.css",
+    "static/js/2.7b74b743.chunk.js": "/spotify/static/js/2.7b74b743.chunk.js",
+    "static/js/2.7b74b743.chunk.js.map": "/spotify/static/js/2.7b74b743.chunk.js.map",
+    "index.html": "/spotify/index.html",
+    "static/css/2.a126e3d4.chunk.css.map": "/spotify/static/css/2.a126e3d4.chunk.css.map",
+    "static/css/main.0fde7b67.chunk.css.map": "/spotify/static/css/main.0fde7b67.chunk.css.map",
+    "static/js/2.7b74b743.chunk.js.LICENSE.txt": "/spotify/static/js/2.7b74b743.chunk.js.LICENSE.txt",
+    "static/media/Wavenew.a602bbbd.svg": "/spotify/static/media/Wavenew.a602bbbd.svg",
+    "static/media/primeicons.css": "/spotify/static/media/primeicons.e61f3495.woff",
+    "static/media/theme.css": "/spotify/static/media/roboto-v20-latin-ext_latin-regular.ae804dc0.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.dbf7e5ce.js",
-    "static/css/2.6b32ab70.chunk.css",
+    "static/js/runtime-main.0e16c741.js",
+    "static/css/2.a126e3d4.chunk.css",
     "static/js/2.7b74b743.chunk.js",
     "static/css/main.0fde7b67.chunk.css",
-    "static/js/main.95ffb149.chunk.js"
+    "static/js/main.5f76d12d.chunk.js"
   ]
 }
