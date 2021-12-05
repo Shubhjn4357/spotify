@@ -1,6 +1,7 @@
 
 const authEndpoint = process.env.REACT_APP_SPOTIFY_AUTH; //"https://accounts.spotify.com/authorize";
-const redirectUri ="https://Shubhjn4357.github.io/spotify/";
+const getUrl=window.location.href.split('login');
+const redirectUri =getUrl[0];
 const clientId = process.env.REACT_APP_CLIENT_ID ;//"********************";
 const scopes = [
   "streaming",
